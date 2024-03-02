@@ -47,6 +47,18 @@ modeling.py:   Contains code for modeling using machine learning algorithms.
 Run preprocessing_and_EDA.py : to preprocess the data and perform exploratory data analysis.
 Run modeling.py : to train machine learning models and evaluate their performance.
 
+## Results
+
+After completing the preprocessing, exploratory data analysis (EDA), and modeling phases of the Hotel Reservation Demand Analysis project, we evaluated the performance of our ensemble model, which combines predictions from a Random Forest classifier and an XGBoost classifier using a simple voting mechanism.
+
+<table>
+  <tr>
+    <td>
+      <img src="Images/class_report.png" alt="Classification Report" style="width: 400px; height: 250px; object-fit: cover" title="classification report"/>
+    </td>
+  </tr>
+</table>
+
 
 
  
